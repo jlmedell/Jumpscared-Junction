@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7ba41274ced85fa4299e1dac52972d8f
+timeCreated: 1523295735
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118580
+  packageName: SciFi Neon City
+  packageVersion: 1.3.1
+  assetPath: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete01.mat
+  uploadId: 708031

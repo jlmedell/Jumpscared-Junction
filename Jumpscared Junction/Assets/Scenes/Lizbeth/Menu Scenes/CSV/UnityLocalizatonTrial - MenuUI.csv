@@ -1,0 +1,45 @@
+Key,Id,Chinese (Simplified)(zh-Hans),English(en),French(fr),German(de),Hebrew(he),Hungarian(hu),Japanese(ja),Korean(ko),Polish(pl),Portuguese (Brazil)(pt-BR),Russian(ru),Spanish(es),Swedish(sv),Thai(th),Turkish(tr)
+menu.start,365883797504,开始,START,COMMENCER,START,הַתחָלָה,INDUL,始める,시작,START,COMEÇAR,НАЧИНАТЬ,COMENZAR,START,เริ่ม,BAŞLANGIÇ
+menu.option,,选项,OPTIONS,OPTIONS,Optionen,אפשרויות,LEHETŐSÉGEK,オプション,옵션,OPCJE,OPÇÕES,ПАРАМЕТРЫ,OPCIONES,ALTERNATIV,ตัวเลือก,SEÇENEKLER
+menu.exit,,出口,EXIT,SORTIE,AUSFAHRT,יְצִיאָה,KIJÁRAT,出口,출구,WYJŚCIE,SAÍDA,ВЫХОД,SALIDA,UTGÅNG,ทางออก,ÇIKIŞ
+menu.tutorial,,教程,TUTORIAL,TUTORIEL,ANLEITUNG,שֶׁל מוֹרֶה,ÚTMUTATÓ,チュートリアル,지도 시간,SEMINARIUM,TUTORIAL,УЧЕБНОЕ ПОСОБИЕ,TUTORIAL,HANDLEDNING,บทช่วยสอน,EĞİTİM VİDEOSU
+settings.settings,,设置,Settings,Paramètres,Einstellungen,הגדרות,Beállítások,設定,설정,Ustawienia,Configurações,Настройки,Ajustes,Inställningar,การตั้งค่า,Ayarlar
+settings.pushalarm,,推送警报,Push Alarm,Alarme à pousser,Push-Alarm,אזעקת דחיפה,Nyomógombos riasztás,プッシュアラーム,푸시 알람,Alarm Push,Alarme de notificação,Нажми кнопку будильника,Alarma de empuje,Trycklarm,การแจ้งเตือนแบบกด,Bildirim
+settings.pushalarm.on,,在,ON,SUR,AN,עַל,BE,の上,에,NA,SOBRE,НА,EN,PÅ,บน,AÇIK
+settings.pushalarm.off,,离开,OFF,DÉSACTIVÉ,AUS,כבוי,KI,オフ,끄다,WYŁĄCZONY,DESLIGADO,ВЫКЛЮЧЕННЫЙ,APAGADO,AV,ปิด,KAPALI
+settings.soundfx,,音效,Sound Fx,Effets sonores,Soundeffekte,אפקטי סאונד,Hangeffektek,サウンドエフェクト,사운드 효과,Efekty dźwiękowe,Efeitos sonoros,Звуковые эффекты,Efectos de sonido,Ljudeffekter,เอฟเฟ็กต์เสียง,Ses Efektleri
+settings.music,,音乐,Music,Musique,Musik,מוּסִיקָה,Zene,音楽,음악,Muzyka,Música,Музыка,Música,Musik,ดนตรี,Müzik
+settings.vibration,,振动,Vibration,Vibration,Vibration,רֶטֶט,Rezgés,振動,진동,Wibracja,Vibração,Вибрация,Vibración,Vibration,การสั่นสะเทือน,Titreşim
+settings.vibration.on,,在,ON,SUR,AN,עַל,BE,の上,에,NA,SOBRE,НА,EN,PÅ,บน,AÇIK
+settings.vibration.off,,离开,OFF,DÉSACTIVÉ,AUS,כבוי,KI,オフ,끄다,WYŁĄCZONY,DESLIGADO,ВЫКЛЮЧЕННЫЙ,APAGADO,AV,ปิด,KAPALI
+settings.facebook,,Facebook,Facebook,Facebook,Facebook,פייסבוק,Facebook,フェイスブック,페이스북,Facebook,Facebook,Фейсбук,Facebook,Facebook,เฟซบุ๊ก,Facebook
+settings.connect,,连接,CONNECT,CONNECTER,VERBINDEN,לְחַבֵּר,KAPCSOLAT,接続する,연결하다,ŁĄCZYĆ,CONECTAR,СОЕДИНЯТЬ,CONECTAR,ANSLUTA,เชื่อมต่อ,BAĞLAMAK
+settings.connected,,已连接,CONNECTED,CONNECTÉ,VERBUNDEN,מְחוּבָּר,CSATLAKOZVA,接続,연결된,POŁĄCZONY,CONECTADO,ПОДКЛЮЧЕНО,CONECTADO,ANSLUTEN,เชื่อมต่อ,BAĞLANTILI
+settings.gamecenter,,游戏中心,Game Center,Centre de jeux,Spielzentrum,מרכז משחקים,Játékközpont,ゲームセンター,게임 센터,Centrum gier,Centro de jogos,Игровой центр,Centro de juegos,Spelcenter,ศูนย์เกม,Oyun Merkezi
+settings.logout,,注销,Logout,Déconnexion,Abmelden,התנתק,Kijelentkezés,ログアウト,로그아웃,Wyloguj,Sair,Выйти,Cerrar sesión,Utloggning,ออกจากระบบ,Çıkış yap
+settings.userid,,用户身份,User ID,ID de l'utilisateur,Benutzer-ID,מזהה משתמש,Felhasználói azonosító,ユーザーID,사용자 ID,Identyfikator użytkownika,ID do usuário,ID пользователя,ID de usuario,Användar-ID,รหัสผู้ใช้,Kullanıcı kimliği
+settings.like,,喜欢,Like,Comme,Wie,כְּמוֹ,Mint,のように,좋다,Tak jak,Como,Нравиться,Como,Som,ชอบ,Beğenmek
+settings.about,,关于,About,À propos,Um,אוֹדוֹת,Körülbelül,について,에 대한,O,Sobre,О,Acerca de,Om,เกี่ยวกับ,Hakkında
+settings.deleteaccount,,删除帐户,Delete Account,Supprimer le compte,Konto löschen,מחיקת חשבון,Fiók törlése,アカウントを削除,계정 삭제,Usuń konto,Excluir conta,Удалить аккаунт,Eliminar cuenta,Ta bort konto,ลบบัญชีผู้ใช้,Hesabı Sil
+settings.rate,,速度,Rate,Taux,Rate,קֶצֶב,Arány,レート,비율,Wskaźnik,Avaliar,Ставка,Tasa,Hastighet,ประเมิน,Oran
+settings.othergames,,其他游戏,Other Games,Autres jeux,Andere Spiele,משחקים אחרים,Egyéb játékok,その他のゲーム,다른 게임,Inne gry,Outros jogos,Другие игры,Otros juegos,Andra spel,เกมอื่นๆ,Diğer Oyunlar
+English,,英语,English,Anglais,Englisch,אַנגְלִית,angol,英語,영어,angielski,Inglês,Английский,Inglés,Engelska,ภาษาอังกฤษ,İngilizce
+German,,德语,German,Allemand,Deutsch,גֶרמָנִיָת,német,ドイツ語,독일 사람,niemiecki,Alemão,немецкий,Alemán,Tyska,ภาษาเยอรมัน,Almanca
+French,,法语,French,Français,Französisch,צָרְפָתִית,francia,フランス語,프랑스 국민,francuski,Francês,Французский,Francés,franska,ภาษาฝรั่งเศส,Fransızca
+Spanish,,西班牙语,Spanish,Espagnol,Spanisch,סְפָרַדִית,spanyol,スペイン語,스페인 사람,hiszpański,Espanhol,испанский,Español,Spanska,ภาษาสเปน,İspanyol
+Chinese,,中国人,Chinese,Chinois,chinesisch,סִינִית,kínai,中国語,중국인,chiński,chinês,китайский,Chino,kinesiska,ชาวจีน,Çince
+Hebrew,,希伯来语,Hebrew,hébreu,hebräisch,עִברִית,héber,ヘブライ語,헤브라이 사람,hebrajski,hebraico,иврит,hebreo,Hebreiska,ภาษาฮีบรู,İbranice
+Hungarian,,匈牙利,Hungarian,hongrois,ungarisch,הוּנגָרִי,magyar,ハンガリー語,헝가리 인,węgierski,húngaro,венгерский,húngaro,Ungerska,ฮังการี,Macarca
+Japanese,,日本人,Japanese,japonais,japanisch,יַפָּנִית,japán,日本語,일본어,japoński,japonês,японский,japonés,japanska,ญี่ปุ่น,Japonca
+Korean,,韩国人,Korean,coréen,Koreanisch,קוריאנית,koreai,韓国語,한국인,koreański,coreano,корейский,coreano,Koreanska,เกาหลี,Korece
+Polish,,抛光,Polish,polonais,Polieren,פּוֹלָנִית,lengyel,研磨,광택,Polski,polonês,польский,Polaco,Polska,ขัด,Lehçe
+Portugese,,葡萄牙语,Portugese,Portugais,Portugiesisch,פורטוגזית,portugál,ポルトガル語,포르투갈어,portugalski,Português,португальский,Portugués,Portugisiska,โปรตุเกส,Portekizce
+Russian,,俄语,Russian,russe,Russisch,רוּסִי,orosz,ロシア,러시아인,rosyjski,russo,Русский,ruso,Ryska,รัสเซีย,Rusça
+Sweedish,,瑞典语,Sweedish,Suédois,Schwedisch,שוודית,svéd,スウェーデン語,스웨덴어,szwedzki,Sueco,шведский,Sueco,Svenska,สวีเดน,İsveççe
+Thai,,泰国,Thai,thaïlandais,Thai,תאילנדי,thai,タイ語,태국,tajski,Tailandês,Тайский,tailandés,Thailändsk,แบบไทย,Tayland
+Turkish,,土耳其,Turkish,turc,Türkisch,טוּרקִית,török,トルコ語,터키어,turecki,turco,турецкий,turco,turkiska,ตุรกี,Türkçe
+login.signup,,报名,Sign Up,S'inscrire,Melden Sie sich an,הרשמה,Regisztráció,サインアップ,회원가입,Zapisać się,Inscrever-se,Зарегистрироваться,Inscribirse,Registrera dig,ลงทะเบียน,Üye olmak
+login.username,,用户名,Username,Nom d'utilisateur,Benutzername,שם משתמש,Felhasználónév,ユーザー名,사용자 이름,Nazwa użytkownika,Nome de usuário,Имя пользователя,Nombre de usuario,Användarnamn,ชื่อผู้ใช้,Kullanıcı adı
+login.password,,密码,Password,Mot de passe,Passwort,סִיסמָה,Jelszó,パスワード,비밀번호,Hasło,Senha,Пароль,Contraseña,Lösenord,รหัสผ่าน,Şifre
+login.alreadyhaveanaccount,,已有账号？,Already have an account?,Vous avez déjà un compte ?,Sie haben bereits ein Konto?,כבר יש לך חשבון?,Már van fiókod?,すでにアカウントをお持ちですか?,이미 계정이 있으신가요?,Masz już konto?,Já tem uma conta?,У вас уже есть аккаунт?,¿Ya tienes una cuenta?,Har du redan ett konto?,มีบัญชีอยู่แล้วใช่ไหม?,Zaten hesabınız var mı?
+login.login,,登录,Log in,Se connecter,Einloggen,התחברות,Bejelentkezés,ログイン,로그인,Zaloguj się,Conecte-se,Авторизоваться,Acceso,Logga in,เข้าสู่ระบบ,Giriş yapmak

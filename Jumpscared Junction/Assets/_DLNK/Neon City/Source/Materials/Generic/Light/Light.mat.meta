@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b525bbed558e3de43915d6d4e64c2b22
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118580
+  packageName: SciFi Neon City
+  packageVersion: 1.3.1
+  assetPath: Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Light.mat
+  uploadId: 708031

@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: titleScreen_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4afcc4ff106262049a78b82b4a8eb37c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 365883797504
+    m_Localized: '[PRESS ANY KEY TO START]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7240811831296
+    m_Localized: NEW GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7796389339136
+    m_Localized: LOAD GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8073909657600
+    m_Localized: QUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8474130145280
+    m_Localized: CONTROLS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8615327195136
+    m_Localized: ACCESSIBLY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8377770205184
+    m_Localized: AUDIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8196177813504
+    m_Localized: GENERAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7949414326272
+    m_Localized: CREDITS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204457636028416
+    m_Localized: WELCOME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204649869369344
+    m_Localized: MAIN MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205874627108864
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207463332995072
+    m_Localized: RETURN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210543646629888
+    m_Localized: PROGRAMMERS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210745338126336
+    m_Localized: ARTISTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210939203051520
+    m_Localized: ASSETS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219030678167552
+    m_Localized: 'VISUAL AID
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219226740908032
+    m_Localized: VISUAL CUES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219387139481600
+    m_Localized: ON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219466852229120
+    m_Localized: OFF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221699719323648
+    m_Localized: '*GAME CONTAINS SUBTLE MUSICAL GUIDANCE* '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223554398609408
+    m_Localized: ALL AUDIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223683373457408
+    m_Localized: AMBIANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223832409661440
+    m_Localized: MUSIC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223921878360064
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229245481934848
+    m_Localized: ENGLISH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 266895135891456
+    m_Localized: SPANISH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267349710364672
+    m_Localized: JAPANESE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267765667880960
+    m_Localized: GENERAL SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268082392358912
+    m_Localized: LANGUAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 271668287397888
+    m_Localized: CUSTOMIZE CONTROLS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272206366269440
+    m_Localized: FORWARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272369277231104
+    m_Localized: BACKWARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272447022850048
+    m_Localized: LEFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272686131732480
+    m_Localized: RIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273047546519552
+    m_Localized: JUMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273125359247360
+    m_Localized: SLIDE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6367698414231552
+    m_Localized: FORWARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6367817800900608
+    m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6367867838947328
+    m_Localized: "LEFT\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6367976920211456
+    m_Localized: RIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6368045442555904
+    m_Localized: JUMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6368124282888192
+    m_Localized: SPRINT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6368218545676288
+    m_Localized: SLIDE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6368298732380160
+    m_Localized: LOOK LEFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6368379132993536
+    m_Localized: LOOK RIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6369724137234432
+    m_Localized: RESET ALL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6370254364368896
+    m_Localized: RESET
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
